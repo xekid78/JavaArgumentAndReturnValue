@@ -6,7 +6,7 @@ Itemクラスを使い、リンゴやオレンジの合計を算出。
 
 ## コード
 ```
-public class Sample27 {
+public class Total {
 
 	public static void main(String[] args) {
 		Item apple = new Item(120, 15);
@@ -43,5 +43,6 @@ class Item {
 ## 開発環境
 | 開発ツール |  |
 |:-|:-|
+| OS | Windows10 |
 | 統合開発環境(IDE) | Eclipse 4.7.0 Oxygen |
 | 開発言語 | Java8 |
